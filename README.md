@@ -1,2 +1,2 @@
 # Task-2-Project-Internpe
-DIE GAME
+Dice Game
